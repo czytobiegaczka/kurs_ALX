@@ -1,0 +1,14 @@
+1. Z każdego rekordu wypisz wybrane pole: imię, nazwisko, pensja, i miasto.
+
+2. Wypisz tylko pracowników z miasta Oxford.
+
+3. Oblicz średnią pensję wszystkich.
+
+4. Użytkownik podaje nazwę stanowiska (input), a program oblicza średnią pensję na wybranym stanowisku (job_title).
+
+5. Dla każdego stanowiska występującego w pliku oblicz średnią pensję na tym stanowisku.
+
+6. Znajdź pracownika, który zarabia najwięcej, i pracownika, który zarabia najmniej.
+  Wypisz nie tylko pensję, ale też kto to jest (imię i nazwisko).
+
+7. Pracownikom na wybranym stanowisku daj podwyżkę i zapisz zmienione dane w nowym pliku.
